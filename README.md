@@ -1,2 +1,2 @@
 # vbttmp
-Victory belongs to the most persevering
+The shortest way to do many things is to only one thing at a time
